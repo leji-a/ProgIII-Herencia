@@ -1,0 +1,10 @@
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\bin\Debug\ejercicioPersona.exe.config
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\bin\Debug\ejercicioPersona.exe
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\bin\Debug\ejercicioPersona.pdb
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.csproj.AssemblyReference.cache
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.Form1.resources
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.Properties.Resources.resources
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.csproj.GenerateResource.cache
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.csproj.CoreCompileInputs.cache
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.exe
+C:\Users\UTN\Desktop\ejercicio\ejercicioPersona\ejercicioPersona\obj\Debug\ejercicioPersona.pdb
